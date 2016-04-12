@@ -1,0 +1,13 @@
+{
+  "name": "connect-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "puer": "^1.1.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
